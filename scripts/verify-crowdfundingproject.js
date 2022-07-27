@@ -1,6 +1,5 @@
 
 const { run, ethers } = require("hardhat");
-
 async function main() {
   const contractAddress = "0xcf092E8bDCDC1FA8B15Ebeb9D97453D498067Df1";
   const args = [
