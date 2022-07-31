@@ -22,4 +22,4 @@ A donation-based crowdfunding dApp on Polygon where users can start a fundraisin
 - User Interface: [TailwindCSS](https://tailwindcss.com/)
 - RPC provider: [Ankr](https://www.ankr.com/protocol/)
 
-![screely-1659038978923](https://user-images.githubusercontent.com/44579545/181632941-b45448ca-f45a-4389-bae0-a626cc874ece.png)
+<img width="1552" alt="Screenshot 2022-07-29 at 5 39 36 AM (1)" src="https://user-images.githubusercontent.com/44579545/182042436-76251795-98f7-4bd0-ab04-49b1f995c316.png">
